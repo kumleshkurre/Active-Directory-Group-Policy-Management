@@ -19,12 +19,6 @@ The project covers practical GPO implementations such as:
 - Desktop management
 - Security hardening using Group Policy
 
-This project is useful for:
-- IT Support / System Admin interviews
-- Hands-on Active Directory practice
-- GitHub portfolio showcase
-- Training and documentation
-
 ---
 
 ## 1️⃣ Map Network Drive to Clients Using GPO

@@ -1,6 +1,6 @@
 ## //------------- Top 5 Group Policy (GPO) – AD DS Server ----------------//
 
-1. Map Network Drive to Clients using GPO
+1. Map Network Drive to Domain PC using GPO
 
 Step 1: Folder Sharing on Server
 go file explorer  
@@ -21,7 +21,7 @@ The project covers practical GPO implementations such as:
 
 ---
 
-## 1️⃣ Map Network Drive to Clients Using GPO
+## 1️⃣ Map Network Drive to Domain PC Using GPO
 
 ### Step 1: Share Folder on Server
 - Open **File Explorer** on the server
@@ -71,7 +71,7 @@ Drive Letter : D
 - Enable **Show all drives**
 - Click **Apply → OK**
 
-✅ The network drive will be mapped automatically on client systems.
+✅ The network drive will be mapped automatically on Domai systems.
 
 ---
 
@@ -136,7 +136,7 @@ User Configuration
 
 ## 5️⃣ Block USB / Removable Storage Access
 
-This policy is used to **block all USB and removable storage devices** on client computers for security purposes.
+This policy is used to **block all USB and removable storage devices** on Domain computers for security purposes.
 
 ### Steps to Configure
 
@@ -153,7 +153,7 @@ Computer Configuration
 
 ---
 
-## 🔄 Apply Group Policy on Client System
+## 🔄 Apply Group Policy on Domain System
 
 After completing all configurations:
 
@@ -162,5 +162,5 @@ After completing all configurations:
 - Type: gpupdate
 - Press **Enter**
 
-✅ USB / removable storage access will be blocked on the client system.
+✅ USB / removable storage access will be blocked on the Domain system.
 

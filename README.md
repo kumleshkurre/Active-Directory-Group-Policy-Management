@@ -71,7 +71,7 @@ Drive Letter : D
 - Enable **Show all drives**
 - Click **Apply → OK**
 
-✅ The network drive will be mapped automatically on Domai systems.
+✅ The network drive will be mapped automatically on Domain systems.
 
 ---
 

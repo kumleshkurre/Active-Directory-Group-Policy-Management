@@ -164,3 +164,12 @@ After completing all configurations:
 
 ✅ USB / removable storage access will be blocked on the Domain system.
 
+
+ ## 👨‍💻 Author
+- Kumlesh Kurre
+
+ ## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
+
+
